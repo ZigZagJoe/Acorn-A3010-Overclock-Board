@@ -1,0 +1,10 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C2",0805,2,22uF,C45783
+J1,PinHeader_1x02_P2.54mm_Vertical,1,VCC GND,
+"R1, R2, R3",0805,3,1K,C23140
+R4,0805,1,33,C23140
+SW1,PinSocket_1x03_P2.54mm_Vertical,1,ON-OFF-ON,
+TP1,TestPoint_THTPad_D2.0mm_Drill1.0mm,1,CKIN,
+TP2,TestPoint_THTPad_D2.0mm_Drill1.0mm,1,CKOUT,
+U1,SOIC-14_3.9x8.7mm_P1.27mm_HandSolder,1,74AHCT125,
+X1,Oscillator_DIP-8_DIP-14,1,60mhz,n/a
